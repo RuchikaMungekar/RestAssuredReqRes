@@ -34,9 +34,11 @@ replay_pid*
 *.iml
 
 # Build output
-target/
+/target/
 bin/
-test-output/
+/test-output/
+/testng-results.xml
+/testng-failed.xml
 
 # Logs
 *.log
